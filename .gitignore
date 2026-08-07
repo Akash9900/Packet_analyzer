@@ -1,0 +1,20 @@
+# Build artifacts
+build/
+cmake-build-*/
+compile_commands.json
+dpi_engine
+dpi_engine.exe
+dpi_simple
+dpi_simple.exe
+*.o
+*.obj
+
+# Generated / run output
+output.pcap
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.user
+.DS_Store

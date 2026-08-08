@@ -5,8 +5,6 @@ protocols, extracts TLS Server Name Indication (SNI) and HTTP Host values,
 classifies application traffic, applies flow-level blocking rules, and writes
 the permitted traffic to a new PCAP file.
 
-The repository includes a straightforward single-threaded implementation for
-learning and a configurable multi-threaded implementation for larger captures.
 
 ## Verified sample results
 
